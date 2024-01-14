@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="images/banner.jpeg" width="60%" height="60%">
+	<img src="images/banner.jpeg" width="60%" height="60%"/>
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=threatcon&color=blueviolet&style=flat-square&label=Profile+Views" />
@@ -13,6 +13,16 @@
 <p>🚀 &nbsp;I create tools in Ansible, PowerShell and VBA. Yes, VBA. I work in houses that Microsoft built and they heavily rely on Microsoft Office automation.</p>
 
 <br />
+
+### 💻 &nbsp;Certifications:
+
+![CISSP](https://img.shields.io/badge/-Certified%20Information%20Systems%20Sercurity%20Professional-05122A?style=flat&logo=isc2)&nbsp;
+![CEH](https://img.shields.io/badge/-Certified%20Ethical%20Hacker-05122A?style=flat)&nbsp;
+![CCNP](https://img.shields.io/badge/-Cisco%20Certified%20Network%20Professional-05122A?style=flat&logo=cisco)&nbsp;
+
+
+<br />
+
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:
