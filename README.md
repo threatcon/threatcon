@@ -11,8 +11,7 @@
 
 <p>Hello and welcome. My name is Antonio Turner and my primary job is a Network Architect</p>
 <p>My primary responsibilities are network audits and creating network automation tools.</p>
-<p>I create tools in Ansible, PowerShell and VBA. Yes, VBA. I work in houses that Microsoft built and they heavily rely on Microsoft Office automation.</p>
-<br />
+<p>I create tools in Ansible, PowerShell and VBA. Yes, VBA. I work in houses that Microsoft built and they heavily rely on Microsoft Office automation.</p> <br />
 
 ### :trophy: &nbsp;Certifications:
 
