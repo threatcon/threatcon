@@ -45,4 +45,13 @@
 
 ## 📕 Pinned Repositories
 
+<p align="center">
+	<a href="https://github.com/threatcon/vba-formatter">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=threatcon&repo=vba-formatter&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+	<a href="https://github.com/threatcon/vba-file-generator">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=threatcon&repo=vba-file-generator&hide_border=true&theme=dark&show_icons=true" />
+	</a>
+</p>
+
 
