@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="images/header.jpeg">
+	<img src="images/banner.jpeg" width="60%" height="60%">
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=threatcon&color=blueviolet&style=flat-square&label=Profile+Views" />
