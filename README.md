@@ -9,8 +9,8 @@
 
 
 <p>👋 &nbsp;Hello and welcome. My name is Antonio Turner and my primary job is a Network Architect</p>
-<p>🔍 &nbsp;I spend most of my time doing network audits and creating network automation tools.</p>
-<p>🚀 &nbsp;I primarily create tools in Ansible and VBA. Yes, VBA. I work in Microsoft Houses that rely heavily on Office automation.</p>
+<p>🔍 &nbsp;My primary responsibilities are network audits and creating network automation tools.</p>
+<p>🚀 &nbsp;I create tools in Ansible, PowerShell and VBA. Yes, VBA. I work in houses that Microsoft built and they heavily rely on Microsoft Office automation.</p>
 
 <br />
 ## 🛠 &nbsp;Tech Stack:
@@ -19,6 +19,7 @@
 
 ![VBA](https://img.shields.io/badge/-Visual%20Basic%20for%20Applications-05122A?style=flat&logo=visualbasic)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+![PowerShell)](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)&nbsp;
 ![Mashup (Power BI)](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
