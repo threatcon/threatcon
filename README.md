@@ -9,10 +9,10 @@
 
 <br />
 
-<p>Hello and welcome. My name is Antonio Turner and I am a Senior Network Architect. I currently develop auditing, automation and</p>
-<p>reporting tools. I develop tools in Ansible, PowerShell and VBA. Yes, VBA. I work in houses that Microsoft built and they heavily rely</p>
-<p>on Microsoft Office automation. I have been a VBA developer for over 20 years and I love it... even if most people including</p>
-<p>Microsoft don't.</p>
+<p>Hello and welcome. My name is Antonio Turner and I am a Senior Network Architect. I currently develop auditing,</p>
+<p>automation and reporting tools. I develop tools in Ansible, PowerShell and VBA. Yes, VBA. The places I work are</p>
+<p> embeded in the Microsoft ecosystem and heavily rely on Microsoft Office automation. I have been a VBA developer </p>
+<p>>for over 20 years and I love it... even if most people including Microsoft don't (VBA joke).</p>
 
 ### :trophy: &nbsp;Certifications:
 
